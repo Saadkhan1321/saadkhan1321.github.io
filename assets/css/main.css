@@ -2102,6 +2102,12 @@ input, select, textarea {
 			width: 200px;
   			height: 120px;
 		}
+		.image img1 {
+			border-radius: 0.35em;
+			display: block;
+		}
+
+
 
 		.image.left {
 			float: left;
